@@ -8,7 +8,7 @@ IT,S A POWERFUL DDOS ATTACK TOOL
     pkg install git
     pkg install nodejs-lts  
     rm -rf TBB-DDOS
-    git clone https://github.com/TeamBlackBerry/TBB-DDOS
+    git clone https://github.com/Blackcyberteam-admin/BLACK-CYBER-TEAM.git
     cd TBB-DDOS
     npm i requests
     npm i https-proxy-agent
